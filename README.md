@@ -1,4 +1,4 @@
-# online-advertisement-system
+# AdGallery
 Mini Project 
 
 
